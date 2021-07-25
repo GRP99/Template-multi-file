@@ -28,3 +28,18 @@ How to run:
 $ python mkfromDirectory.py $path_folder
 ```
 
+### Team
+![Gonçalo Pinto][grp-pic] | ![Etienne Costa][etienne-pic] | ![Luís Ribeiro][luis-pic]
+:---: | :---: | :---:
+[Gonçalo Pinto][grp] | [Etienne Costa][etienne]  | [Luís Ribeiro][luis]
+
+[grp]: https://github.com/GRP99
+[grp-pic]: https://github.com/GRP99.png?size=120
+[etienne]: https://github.com/EtienneCosta
+[etienne-pic]: https://github.com/EtienneCosta.png?size=120
+[luis]: https://github.com/luis1ribeiro
+[luis-pic]: https://github.com/luis1ribeiro.png?size=120
+
+<div align="center">
+  <sub>February 2021 - July 2021</sub>
+</div>
